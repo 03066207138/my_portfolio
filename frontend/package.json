@@ -2,13 +2,12 @@
   "name": "my_portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://03066207138.github.io/my_portfolio",
+
   "scripts": {
     "dev": "vite",
      "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+
   },
   "devDependencies": {
     "vite": "^5.0.0",
